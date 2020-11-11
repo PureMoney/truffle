@@ -18,7 +18,7 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "@ethereumjs/tx": "^3.0.0-beta.1",
-    "@trufflesuite/web3-provider-engine": "https://github.com/PureMoney/provider-engine.git",
+    "@trufflesuite/web3-provider-engine": "git+https://github.com/PureMoney/provider-engine.git",
     "@types/web3": "^1.0.20",
     "any-promise": "^1.3.0",
     "bindings": "^1.5.0",
