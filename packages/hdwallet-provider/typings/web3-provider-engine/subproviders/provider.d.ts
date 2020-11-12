@@ -1,1 +1,1 @@
-declare module "@trufflesuite/web3-provider-engine/subproviders/provider";
+declare module "@puremoney/web3-provider-engine/subproviders/provider";

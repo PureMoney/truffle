@@ -6,15 +6,15 @@ import ethJSWallet from "ethereumjs-wallet";
 import EthereumHDKey from "ethereumjs-wallet/hdkey";
 import Transaction from "@ethereumjs/tx/dist/transaction";
 // @ts-ignore
-import ProviderEngine from "@trufflesuite/web3-provider-engine";
-import FiltersSubprovider from "@trufflesuite/web3-provider-engine/subproviders/filters";
-import NonceSubProvider from "@trufflesuite/web3-provider-engine/subproviders/nonce-tracker";
-import HookedSubprovider from "@trufflesuite/web3-provider-engine/subproviders/hooked-wallet";
-import ProviderSubprovider from "@trufflesuite/web3-provider-engine/subproviders/provider";
+import ProviderEngine from "@puremoney/web3-provider-engine";
+import FiltersSubprovider from "@puremoney/web3-provider-engine/subproviders/filters";
+import NonceSubProvider from "@puremoney/web3-provider-engine/subproviders/nonce-tracker";
+import HookedSubprovider from "@puremoney/web3-provider-engine/subproviders/hooked-wallet";
+import ProviderSubprovider from "@puremoney/web3-provider-engine/subproviders/provider";
 // @ts-ignore
-import RpcProvider from "@trufflesuite/web3-provider-engine/subproviders/rpc";
+import RpcProvider from "@puremoney/web3-provider-engine/subproviders/rpc";
 // @ts-ignore
-import WebsocketProvider from "@trufflesuite/web3-provider-engine/subproviders/websocket";
+import WebsocketProvider from "@puremoney/web3-provider-engine/subproviders/websocket";
 import Url from "url";
 import { JSONRPCRequestPayload, JSONRPCErrorCallback } from "ethereum-protocol";
 import { Callback, JsonRPCResponse } from "web3/providers";

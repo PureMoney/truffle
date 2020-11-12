@@ -1,1 +1,1 @@
-declare module "@trufflesuite/web3-provider-engine/subproviders/nonce-tracker";
+declare module "@puremoney/web3-provider-engine/subproviders/nonce-tracker";
