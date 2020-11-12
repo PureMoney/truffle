@@ -1,5 +1,5 @@
 {
-  "name": "@truffle/hdwallet-provider",
+  "name": "@puremoney/hdwallet-provider",
   "description": "HD Wallet-enabled Web3 provider (forked by RockStable)",
   "license": "MIT",
   "author": "Tim Coulter <tim@trufflesuite.com>",
