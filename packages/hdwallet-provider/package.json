@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/puremoney/truffle/issues"
   },
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -21,7 +21,7 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "@ethereumjs/tx": "^3.0.0-beta.1",
-    "@puremoney/web3-provider-engine": "^15.0.13-x02",
+    "@puremoney/web3-provider-engine": "^15.0.13-x03",
     "@types/web3": "^1.0.20",
     "any-promise": "^1.3.0",
     "bindings": "^1.5.0",
